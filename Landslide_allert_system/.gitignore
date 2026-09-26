@@ -1,0 +1,27 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+
+data/raw/dem_tiles/
+data/raw/dem.tif
+data/raw/temp_mosaic.tif
+data/processed/*.tif
+
+# Python
+_pycache_/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Database
+*.db
+
+# Node
+node_modules/
+dist/

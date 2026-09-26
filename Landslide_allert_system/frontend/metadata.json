@@ -1,0 +1,6 @@
+{
+  "name": "Slopesence AI",
+  "description": "North Eastern Region (NER) Landslide Early Warning System and Tactical GIS Command Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
